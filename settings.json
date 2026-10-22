@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ModerationBot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ModerationBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "NightfallSMPPart2.aternos.me",
+    "port": 49300,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Official NightFall 24/7-Server",
+        "welcome to gg./nighties !!",
+        "Powered by Azuree.Co"
       ]
     },
     "chat-log": true,
